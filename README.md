@@ -4,11 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer [JS, React, TS]
 -------------------
 
-I\`ve been learning to code for 1 year after switching careers. I have experience working on both team and individual projects.
+I'm a Frontend Developer with passion about developing modern projects.
+
+My jorney as a Frontend Developer started in December, 2021, from a marathon of creating web-page with html and css.
+After that I continued lerning other technologies: JS, React, TS etc. Now I have experience working on both team and individual projects.
+
 I'm looking for a trainee/junior position and ready to work from office to boost my professional experience.
+
 As a frontend developer, I am passionate about creating engaging and user-friendly web experiences. I have a strong attention to detail and a desire to write clean, maintainable code. I am familiar with modern frontend frameworks and libraries, such as React, and I enjoy staying up-to-date with the latest industry trends and best practices. I am ready for challenges and contributing to projects that have a positive impact.
 
 * 🌍  I'm based in Kyiv, Ukraine
+* 💼  I'm ready to work from office, hybrid or online
 * 🧠  I'm learning Typescript, Next.js, Node.js
 * 🤝  I'm open to collaborating on e-commerce, social and other projects
 * 😄 Pronouns: he/him
