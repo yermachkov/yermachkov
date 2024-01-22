@@ -1,7 +1,7 @@
 Hello there! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oleksii
 ===============================================================================================================================
 
-I am a Junior Frontend developer [JavaScript, React, Next.js, Typescript]
+Junior Frontend developer [JavaScript, React, Next.js, Typescript]
 -------------------
 
 My journey as a Frontend Developer started in December 2021, from a marathon of creating a web page with HTML and CSS. After that, I continued learning web development at the GoIT technology course and via self-education. During this time I have worked on both team and individual projects.
