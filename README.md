@@ -1,11 +1,9 @@
 Hello there! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oleksii
 ===============================================================================================================================
 
-Frontend developer [JavaScript, React, Next.js, Typescript]
+I am a Junior Frontend developer [JavaScript, React, Next.js, Typescript]
 -------------------
 
-I am a Junior Frontend Developer.
- 
 My journey as a Frontend Developer started in December 2021, from a marathon of creating a web page with HTML and CSS. After that, I continued learning web development at the GoIT technology course and via self-education. During this time I have worked on both team and individual projects.
 
 Over the last 3 months, I've been an integral part of a commercial team project 'Advokato' (a website for a law firm) at Baza Trainee Ukraine. 
