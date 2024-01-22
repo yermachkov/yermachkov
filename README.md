@@ -25,11 +25,11 @@ As a frontend developer, I have a strong attention to detail and a desire to wri
 Let's connect and discuss how I can bring value to your projects!
 
 A few more facts about me:
-🌍 I'm based in Kyiv, Ukraine
-💼 I'm ready to work on-site, hybrid, or remote
-🧠 I continue learning Typescript, Next.js, Node.js
-⚡ Hobbies: I've danced Cuban salsa and bachata for 10 years. Sometimes I play the guitar. I'm also passionate about psychology
-⚖️ Background: I have an attorney's certificate and wide law experience, including representing clients before a court, law enforcement, and governmental bodies
+- 🌍 I'm based in Kyiv, Ukraine
+- 💼 I'm ready to work on-site, hybrid, or remote
+- 🧠 I continue learning Typescript, Next.js, Node.js
+- ⚡ Hobbies: I've danced Cuban salsa and bachata for 10 years. Sometimes I play the guitar. I'm also passionate about psychology
+- ⚖️ Background: I have an attorney's certificate and wide law experience, including representing clients before a court, law enforcement, and governmental bodies
 
 ### Skills
 
