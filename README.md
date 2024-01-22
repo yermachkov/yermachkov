@@ -1,24 +1,35 @@
-Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oleksii
+Hi! [(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)] My name is Oleksii
 ===============================================================================================================================
 
-Front-end developer [JS, React, TS]
+Frontend developer [JavaScript, React, Next.js, Typescript]
 -------------------
 
-I'm a Frontend Developer with passion about developing modern projects.
+I am a Junior Frontend Developer.
+ 
+My journey as a Frontend Developer started in December 2021, from a marathon of creating a web page with HTML and CSS. After that, I continued learning web development at the GoIT technology course and via self-education. During this time I have worked on both team and individual projects.
 
-My jorney as a Frontend Developer started in December, 2021, from a marathon of creating web-page with html and css.
-After that I continued lerning other technologies: JS, React, TS etc. Now I have experience working on both team and individual projects.
+Over the last 3 months, I've been an integral part of a commercial team project 'Advokato' (a website for a law firm) at Baza Trainee Ukraine. 
 
-I'm looking for a trainee/junior position and ready to work from office to boost my professional experience.
+My technology stack includes:
 
-As a frontend developer, I am passionate about creating engaging and user-friendly web experiences. I have a strong attention to detail and a desire to write clean, maintainable code. I am familiar with modern frontend frameworks and libraries, such as React, and I enjoy staying up-to-date with the latest industry trends and best practices. I am ready for challenges and contributing to projects that have a positive impact.
+Frontend Technologies:
+- HTML5, semantic markup, CSS/SASS, Styled-components, Responsive/Adaptive design
+- JavaScript, React, Next.js, Typescript
 
-* 🌍  I'm based in Kyiv, Ukraine
-* 💼  I'm ready to work from office, hybrid or online
-* 🧠  I'm learning Typescript, Next.js, Node.js
-* 🤝  I'm open to collaborating on e-commerce, social and other projects
-* 😄 Pronouns: he/him
-* ⚡ Fun fact: I like dancing cuban salsa & bachata 
+Additional Tools:
+- Redux Toolkit, Rest API, Vite
+- GIT, Figma
+
+As a frontend developer, I have a strong attention to detail and a desire to write clean, maintainable code. I am ready for challenges and contributing to projects that have a positive impact.
+
+Let's connect and discuss how I can bring value to your projects!
+
+A few more facts about me:
+🌍 I'm based in Kyiv, Ukraine
+💼 I'm ready to work on-site, hybrid, or remote
+🧠 I continue learning Typescript, Next.js, Node.js
+⚡ Hobbies: I've danced Cuban salsa and bachata for 10 years. Sometimes I play the guitar. I'm also passionate about psychology
+⚖️ Background: I have an attorney's certificate and wide law experience, including representing clients before a court, law enforcement, and governmental bodies
 
 ### Skills
 
